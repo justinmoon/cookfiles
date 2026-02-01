@@ -1,0 +1,9 @@
+[user]
+	name = Justin Moon
+	email = mail@justinmoon.com
+
+[safe]
+	directory = /workspace
+
+[init]
+	defaultBranch = master
